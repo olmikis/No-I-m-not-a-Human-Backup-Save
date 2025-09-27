@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:no_im_not_a_human_saver"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="No, I'm not a Human Backup Save" Height="450" Width="800">
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
